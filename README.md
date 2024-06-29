@@ -15,7 +15,7 @@ This project is a simple user management system built with Vue.js for the fronte
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/lab3-user-management.git
+    git clone https://github.com/yourusername/lab3-Web-Tech.git
     cd lab3-user-management
     ```
 

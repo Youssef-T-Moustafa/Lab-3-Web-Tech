@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS lab3database;
+
+USE lab3database;
+
+CREATE TABLE IF NOT EXISTS users (
+    id INT(11) NOT NULL AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    PRIMARY KEY (id)
+);
